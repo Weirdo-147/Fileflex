@@ -80,7 +80,7 @@ Contributions are welcome! If you have suggestions or encounter any issues, plea
 ---
 
 ## 📩 Feedback  
-Feel free to share your feedback or feature requests by creating an issue or contacting us at [your-email@example.com].  
+Feel free to share your feedback or feature requests by creating an issue or contacting us at [weirdo.dheeraj@gmail.com].  
 
 ---
 
@@ -88,5 +88,3 @@ Feel free to share your feedback or feature requests by creating an issue or con
 This project is licensed under the [MIT License](LICENSE).  
 
 ---  
-
-Would you like any changes or additional sections?
